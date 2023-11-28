@@ -6,3 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Tutorial Link:
 https://learn.microsoft.com/en-us/azure/static-web-apps/get-started-portal?tabs=react&pivots=github
+
+How to fix: 
+
+yea i got the solution just run npm install react-scripts@latest
